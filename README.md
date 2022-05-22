@@ -6,5 +6,8 @@ This application is a simple calendar application that allows a user to save eve
 
 ### ScreenShot
 
-C:\Users\Terrence Mashoro\OneDrive\Desktop\Work-Day-Schedular\Assets\2022-05-22.png
+![Getting Started](./Assets/2022-05-22.png)
 
+#### Website Link
+
+ <https://tmashoro.github.io/Work-Day-Scheduler/>
